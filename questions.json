@@ -263,10 +263,10 @@
             "questionNo": 2,
             "question": "A deck contains the Ace, King, Queen, and Jack of Clubs and the Ace, King, Queen, and Jack of Diamonds. A card is randomly selected from each suit. What is the probability that at least one card is a Queen?",
             "options": [
-              { "text": "½" },
-              { "text": "⅜" },
+              { "text": "1/2" },
+              { "text": "3/8" },
               { "text": "7/16" },
-              { "text": "⅛" }
+              { "text": "1/8" }
             ],
             "answer": 2
           },
